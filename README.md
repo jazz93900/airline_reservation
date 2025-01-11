@@ -1,7 +1,7 @@
 # airline_reservation
 
-# Install libraries
+###### Install libraries
 pip install streamlit
 
-# Run Application
+###### Run Application
 streamlit run app.py
